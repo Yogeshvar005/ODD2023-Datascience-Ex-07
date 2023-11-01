@@ -53,9 +53,9 @@ print(df_new)
 
 ```
 ## OUTPUT:
-![image](https://github.com/haritha-venkat/Ex-07-Feature-Selection/assets/121285701/0f0485ff-c873-4dea-bb7f-573403baaa95)
-![image](https://github.com/haritha-venkat/Ex-07-Feature-Selection/assets/121285701/6cda61e7-b3fa-42c2-9ccc-36e7ca7c9261)
-![image](https://github.com/haritha-venkat/Ex-07-Feature-Selection/assets/121285701/78c656f1-ea8e-4eea-84b1-9cedf7852b53)
+![image](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-07/assets/113497367/b3a9d1ef-c29c-43fb-bb8e-64afd0a2a435)
+![image](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-07/assets/113497367/c314a8b6-55d5-42bf-93e8-8c267e9bdb05)
+![image](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-07/assets/113497367/f7718b12-ec0a-4857-85b3-8668267d43d6)
 
 ## CODE-Done for "CarPrice.csv"
 ```python
@@ -104,9 +104,9 @@ df_new.to_csv('CarPrice_new.csv', index=False)
 print(df_new)
 ```
 ## OUTPUT:
-![image](https://github.com/haritha-venkat/Ex-07-Feature-Selection/assets/121285701/ead281b8-2501-429e-8661-7b43d1bcb276)
-![image](https://github.com/haritha-venkat/Ex-07-Feature-Selection/assets/121285701/f0f9c162-4ff3-406f-818e-c2c4b3e81024)
-![image](https://github.com/haritha-venkat/Ex-07-Feature-Selection/assets/121285701/e0a3a4a3-a18c-438b-826b-c1f52788ff0f)
+![image](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-07/assets/113497367/d3d41d1a-628c-4d34-9c71-8db4a6476885)
+![image](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-07/assets/113497367/93d11fc0-f45c-493f-8b7c-b6c3642fb251)
+![image](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-07/assets/113497367/6ad7f69a-2400-4f22-bd8e-81c7b602ac38)
 
 
 ## RESULT:
