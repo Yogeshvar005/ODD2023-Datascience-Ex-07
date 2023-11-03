@@ -59,8 +59,8 @@ print(df_new)
 
 ## CODE-Done for "CarPrice.csv"
 ```python
-Developed By: HARITHASHREE.V
-Reg.No: 212222230046
+Developed By: Yogeshvar M
+Reg.No: 212222230180
 
 import pandas as pd
 import numpy as np
