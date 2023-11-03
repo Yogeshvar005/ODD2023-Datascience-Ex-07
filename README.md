@@ -110,4 +110,4 @@ print(df_new)
 
 
 ## RESULT:
-    Hence various feature selection techniques are applied to the given data set successfully and saved the data into a file.
+Hence various feature selection techniques are applied to the given data set successfully and saved the data into a file.
